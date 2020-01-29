@@ -1,7 +1,7 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/nrf_drv_clock.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\integration\nrfx\legacy\nrf_drv_clock.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\integration\nrfx\legacy\nrf_drv_clock.c \
  ../../../../../../components/libraries/util/nordic_common.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\integration\nrfx\legacy\nrf_drv_clock.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\integration\nrfx\legacy\nrf_drv_clock.h \
  ../../../../../../modules/nrfx/drivers/include/nrfx_clock.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \

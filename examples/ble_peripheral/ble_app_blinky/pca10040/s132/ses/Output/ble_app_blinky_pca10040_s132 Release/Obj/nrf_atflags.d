@@ -1,5 +1,5 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/nrf_atflags.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\atomic_flags\nrf_atflags.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\atomic_flags\nrf_atflags.c \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -30,4 +30,4 @@ Output/ble_app_blinky_pca10040_s132\ Release/Obj/nrf_atflags.o: \
  ../../../../../../components/softdevice/s132/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\atomic_flags\nrf_atflags.h
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\atomic_flags\nrf_atflags.h

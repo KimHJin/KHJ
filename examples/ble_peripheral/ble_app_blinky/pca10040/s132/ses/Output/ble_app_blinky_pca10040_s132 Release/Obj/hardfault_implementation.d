@@ -1,5 +1,5 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/hardfault_implementation.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\hardfault\hardfault_implementation.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\hardfault\hardfault_implementation.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \

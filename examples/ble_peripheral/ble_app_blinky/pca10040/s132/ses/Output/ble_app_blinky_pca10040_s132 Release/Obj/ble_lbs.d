@@ -1,5 +1,5 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/ble_lbs.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\ble\ble_services\ble_lbs\ble_lbs.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\ble\ble_services\ble_lbs\ble_lbs.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -29,7 +29,7 @@ Output/ble_app_blinky_pca10040_s132\ Release/Obj/ble_lbs.o: \
  ../../../../../../components/softdevice/s132/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\ble\ble_services\ble_lbs\ble_lbs.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\ble\ble_services\ble_lbs\ble_lbs.h \
  ../../../../../../components/softdevice/s132/headers/ble.h \
  ../../../../../../components/softdevice/s132/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s132/headers/nrf_error.h \

@@ -1,6 +1,6 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/app_util_platform.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\app_util_platform.c \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\app_util_platform.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\app_util_platform.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\app_util_platform.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
@@ -20,12 +20,12 @@ Output/ble_app_blinky_pca10040_s132\ Release/Obj/app_util_platform.o: \
  ../../../../../../components/softdevice/s132/headers/nrf_error.h \
  ../../../../../../components/softdevice/s132/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s132/headers/nrf_nvic.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\nrf_assert.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\app_error.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\nrf_assert.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/__crossworks.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\sdk_errors.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s132/headers/nrf_error.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\nordic_common.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\libraries\util\app_error_weak.h
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\nordic_common.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\libraries\util\app_error_weak.h

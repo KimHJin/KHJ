@@ -1,6 +1,6 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/ble_conn_state.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\ble\common\ble_conn_state.c \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\ble\common\ble_conn_state.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\ble\common\ble_conn_state.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\ble\common\ble_conn_state.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  ../../../../../../components/softdevice/s132/headers/ble.h \

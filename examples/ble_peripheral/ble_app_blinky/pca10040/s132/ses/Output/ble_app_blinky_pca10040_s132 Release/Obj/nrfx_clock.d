@@ -1,5 +1,5 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/nrfx_clock.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\modules\nrfx\drivers\src\nrfx_clock.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\modules\nrfx\drivers\src\nrfx_clock.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

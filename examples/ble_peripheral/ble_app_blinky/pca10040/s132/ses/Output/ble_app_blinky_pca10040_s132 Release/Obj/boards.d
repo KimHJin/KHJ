@@ -1,6 +1,6 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/boards.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\boards\boards.c \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\boards\boards.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\boards\boards.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\boards\boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
@@ -52,4 +52,4 @@ Output/ble_app_blinky_pca10040_s132\ Release/Obj/boards.o: \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../components/softdevice/s132/headers/nrf_sd_def.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\components\boards\pca10040.h
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\components\boards\pca10040.h

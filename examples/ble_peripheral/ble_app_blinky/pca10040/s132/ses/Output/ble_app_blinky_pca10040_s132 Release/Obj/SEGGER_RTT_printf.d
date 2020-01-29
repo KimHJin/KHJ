@@ -1,7 +1,7 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/SEGGER_RTT_printf.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\external\segger_rtt\SEGGER_RTT_printf.c \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\external\segger_rtt\SEGGER_RTT.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\external\segger_rtt\SEGGER_RTT_Conf.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\external\segger_rtt\SEGGER_RTT_printf.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\external\segger_rtt\SEGGER_RTT.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\external\segger_rtt\SEGGER_RTT_Conf.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \

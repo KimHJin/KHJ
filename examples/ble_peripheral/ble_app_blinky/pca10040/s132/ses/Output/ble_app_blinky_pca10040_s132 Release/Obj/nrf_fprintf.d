@@ -1,5 +1,5 @@
 Output/ble_app_blinky_pca10040_s132\ Release/Obj/nrf_fprintf.o: \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\external\fprintf\nrf_fprintf.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\external\fprintf\nrf_fprintf.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -31,5 +31,5 @@ Output/ble_app_blinky_pca10040_s132\ Release/Obj/nrf_fprintf.o: \
  ../../../../../../components/libraries/util/nrf_assert.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdarg.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\external\fprintf\nrf_fprintf_format.h \
- D:\KHJ\WORK\FirmWare\ Code\origin\nRF5SDK153059ac345\nRF5_SDK_15.3.0_59ac345\external\fprintf\nrf_fprintf.h
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\external\fprintf\nrf_fprintf_format.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\test2\KHJ\external\fprintf\nrf_fprintf.h
